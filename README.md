@@ -14,10 +14,11 @@ Following requirements needed to setup the laravel code:
 10) MySQL Database
 11) Composer
 
-Step 1) Clone or download the code
-Step 2) Go to root directory of code
-Step 3) Run the composer install command
-Step 4) Run the artisan commands
-        a) php artisan migrate
-Step 5) Run the server by 
-        a) php artisan serve
+1) Clone or download the code
+2) Go to root directory of code
+3) Copy .env file and add MySQl database
+4) Run the composer install command
+5) Run the artisan commands
+   a) php artisan migrate
+6) Run the server by 
+   a) php artisan serve
